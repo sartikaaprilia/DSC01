@@ -1,2 +1,4 @@
 # DSC01
-Belajar GitHub
+Belajar 
+
+180814 - DSC Pertemuan 01
